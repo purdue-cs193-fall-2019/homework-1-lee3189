@@ -1,6 +1,6 @@
 # lee3189's First CS193 Homework
 
-##Favorite Things About CS193
+## Favorite Things About CS193
 - Coding
 - Good teachers
 - Contributes to major
